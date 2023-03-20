@@ -1,0 +1,187 @@
+/* Large divaice  */
+@media (min-width:992px) and (max-width:1199.98px){
+        #banner .banner_content h1 {
+            font-size: 57px;
+            letter-spacing: 25px;
+        }
+        #banner .banner_content img {
+	        padding: 41px;
+        }
+        #about .section_item {
+            padding: 0 20px;
+        }
+}
+@media (min-width:768px) and (max-width:991.98px) {
+    #banner .banner_content h3 {
+            font-size: 25px;
+    }
+    #banner .banner_content h1 {
+        font-size: 55px;
+        letter-spacing: 10px;
+    }
+
+    #banner .banner_content img {
+        padding: 41px;
+    }
+    #banner .banner_content a {
+        padding: 15px 30px;
+        font-size: 15px;
+    }
+    #contact .section_info h2 {
+        padding: 0 0 8px;
+    }
+
+    #about .section_item {
+        padding: 0 20px;
+    }
+    #about .section_item {
+        margin-top: 42px;
+    }
+    #about .section_item:nth-child(2n) {
+        border-right-color: transparent;
+    }
+    #services {
+        padding: 80px 0 0;
+        background: #f0f0e8;
+    }
+    #myWork .my_work_item .overly h4 {
+        padding-top: 15px;
+    }
+    footer p {
+        font-size: 10px;
+        padding: 15px 0;
+    }
+}
+@media (min-width:576px) and (max-width:767.98px) {
+    #banner {
+        height: 500px;
+    }
+    #banner .banner_content h3 {
+        font-size: 20px;
+    }
+    #banner .banner_content h1 {
+        font-size: 51px;
+        letter-spacing: 3px;
+        padding: 5px 0;
+    }
+
+    #banner .banner_content p {
+        font-size: 15px;
+    }
+    #banner .banner_content img {
+        padding: 35px;
+    }
+
+    #banner .banner_content a {
+        padding: 15px 30px;
+        font-size: 15px;
+    }
+
+    #contact .section_info h2 {
+        padding: 0 0 8px;
+    }
+
+    #about .section_item {
+        padding: 0 20px;
+    }
+
+    #about .section_item {
+        margin-top: 42px;
+    }
+
+    #about .section_item:nth-child(2n) {
+        border-right-color: transparent;
+    }
+
+    #services {
+        padding: 80px 0 0;
+        background: #f0f0e8;
+    }
+
+    #myWork .my_work_item .overly h4 {
+        font-size: 13px;
+        padding-bottom: 9px;
+        padding-top: 5px;
+    }
+    #myWork .my_work_item .overly {
+        top: 26px;
+        left: 26px;
+        right: 26px;
+        bottom: 16px;
+    }
+
+    footer p {
+        font-size: 10px;
+        padding: 15px 0;
+    }
+}
+@media (min-width:0px) and (max-width:575.98px) {
+    #banner {
+        height: 500px;
+    }
+
+    #banner .banner_content h3 {
+        font-size: 15px;
+    }
+
+    #banner .banner_content h1 {
+        font-size: 35px;
+        letter-spacing: 3px;
+        padding: 5px 0;
+    }
+
+    #banner .banner_content p {
+        font-size: 10px;
+    }
+
+    #banner .banner_content img {
+        padding: 25px;
+    }
+
+    #banner .banner_content a {
+        padding: 15px 30px;
+        font-size: 15px;
+    }
+
+    #contact .section_info h2 {
+        padding: 0 0 8px;
+    }
+
+    #about .section_item {
+        padding: 0 12px;
+    }
+
+    #about .section_item {
+        margin-top: 32px;
+    }
+
+    #about .section_item{
+        border-color: transparent;
+    }
+
+    #services {
+        padding: 80px 0 0;
+        background: #f0f0e8;
+    }
+
+    #myWork .my_work_item .overly h4 {
+        font-size: 13px;
+        padding-bottom: 9px;
+        padding-top: 5px;
+    }
+
+    #myWork .my_work_item .overly {
+        top: 26px;
+        left: 26px;
+        right: 26px;
+        bottom: 16px;
+    }
+
+    footer p {
+        font-size: 10px;
+        padding: 15px 0;
+    }
+    .section_info h2 {
+        font-size: 35px;
+    }
+}
